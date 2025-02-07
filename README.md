@@ -15,7 +15,7 @@ To work with and run this project, you will need a Windows machine with Visual S
 - GLFW
 - GLM
 
-You can install those three requirements at the following link: <https://vulkan-tutorial.com/Development_environment#page_Windows>
+You can install those three requirements using the following link as a guide. Follow their steps without creating any additional code: <https://vulkan-tutorial.com/Development_environment#page_Windows>
 
 > Make sure that you do change project settings so that they link back to your local installations of the Vulkan SDK and additional libraries. 
 
