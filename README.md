@@ -1,5 +1,6 @@
 # Vulkan-Pong
-A Visual Studio C++17 project using the Vulkan graphics API, with the intent of replicating the classic arcade game Pong.
+A Visual Studio C++17 project using the Vulkan graphics API, with the intent of replicating the classic arcade game Pong. A build of the game was uploaded to Itch.io and is available for free here: 
+<https://hirunda.itch.io/vulkan-pong>
 
 # Index
 
